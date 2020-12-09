@@ -5,5 +5,6 @@ Olá! Bem vindo ao meu livro de receitas:wave:
  - Strogonoff de frango
  - Pavê
  - Bolo de Cenoura
- - Pão de Lo
+ - Pão de Ló
  - Torta Holandesa
+ - Bolo de chocolate
